@@ -34,5 +34,11 @@ a:hover {
 	float: left;
 }
 .p1 {
-	
+font-family: helvetica;
+font-size: .9em;
+color: white;
+}
+.pic {
+	float: left;
+	padding: 10px;
 }
