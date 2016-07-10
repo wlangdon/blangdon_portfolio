@@ -1,0 +1,12 @@
+a {
+	text-decoration: none;
+	color: black;
+}
+ul {
+	display: inline;
+}
+body {
+	background-image: url(https://nycdaglobal.wpengine.com/wp-content/uploads/2015/08/image02.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
