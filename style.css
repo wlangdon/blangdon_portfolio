@@ -37,6 +37,7 @@ a:hover {
 font-family: helvetica;
 font-size: .9em;
 color: white;
+letter-spacing: 3px;
 }
 .pic {
 	float: left;
